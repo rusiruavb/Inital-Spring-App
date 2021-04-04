@@ -1,4 +1,4 @@
-package com.example.bigtracker.entity;
+package com.example.initialspringapp.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

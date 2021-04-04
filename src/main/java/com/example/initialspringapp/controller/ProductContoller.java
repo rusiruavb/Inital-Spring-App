@@ -1,7 +1,7 @@
-package com.example.bigtracker.controller;
+package com.example.initialspringapp.controller;
 
-import com.example.bigtracker.entity.Product;
-import com.example.bigtracker.service.ProductService;
+import com.example.initialspringapp.entity.Product;
+import com.example.initialspringapp.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

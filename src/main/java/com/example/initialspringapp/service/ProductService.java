@@ -1,7 +1,7 @@
-package com.example.bigtracker.service;
+package com.example.initialspringapp.service;
 
-import com.example.bigtracker.entity.Product;
-import com.example.bigtracker.repository.ProductRepository;
+import com.example.initialspringapp.entity.Product;
+import com.example.initialspringapp.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

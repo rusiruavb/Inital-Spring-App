@@ -1,6 +1,6 @@
-package com.example.bigtracker.repository;
+package com.example.initialspringapp.repository;
 
-import com.example.bigtracker.entity.Product;
+import com.example.initialspringapp.entity.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface ProductRepository extends JpaRepository<Product, Integer> {
